@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Slider-react/static/css/main.fdf372ee.chunk.css",
+    "main.js": "/Slider-react/static/js/main.bcdb3777.chunk.js",
+    "main.js.map": "/Slider-react/static/js/main.bcdb3777.chunk.js.map",
+    "runtime-main.js": "/Slider-react/static/js/runtime-main.404f069d.js",
+    "runtime-main.js.map": "/Slider-react/static/js/runtime-main.404f069d.js.map",
+    "static/js/2.fedb9863.chunk.js": "/Slider-react/static/js/2.fedb9863.chunk.js",
+    "static/js/2.fedb9863.chunk.js.map": "/Slider-react/static/js/2.fedb9863.chunk.js.map",
+    "static/js/3.b42410d3.chunk.js": "/Slider-react/static/js/3.b42410d3.chunk.js",
+    "static/js/3.b42410d3.chunk.js.map": "/Slider-react/static/js/3.b42410d3.chunk.js.map",
+    "index.html": "/Slider-react/index.html",
+    "static/css/main.fdf372ee.chunk.css.map": "/Slider-react/static/css/main.fdf372ee.chunk.css.map",
+    "static/js/2.fedb9863.chunk.js.LICENSE.txt": "/Slider-react/static/js/2.fedb9863.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Slider-react/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.404f069d.js",
+    "static/js/2.fedb9863.chunk.js",
+    "static/css/main.fdf372ee.chunk.css",
+    "static/js/main.bcdb3777.chunk.js"
+  ]
+}
